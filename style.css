@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.violet{
+    background-color: violet;
+}
+.box{
+    height: 200px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+}
+.btn{
+    margin: 10px 10px;
+    height: 180px;
+    width: 180px;
+    border: 6px solid black;
+    border-radius: 20px;
+}
+.flash{
+    background-color: White;
+}
+.userflash{
+    background-color: black;
+}
+.start{
+    padding: 10px 30px 10px 30px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(144, 120, 94);
+}
